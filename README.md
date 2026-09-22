@@ -25,13 +25,14 @@ A website that presents my background, skills, and projects.
 Memory Match Game is a fun and interactive game designed to test and improve the player's memory skills. 
 
 ## Education
-
 Currently pursuing my studies and developing my skills in programming and technology.
 
-## Contact
+## Live Demo & Usage
+1. Visit the live website: [Personal Portfolio](https://lenabahian-commits.github.io/personal-portfolio/)
+2. Explore my background, skills, and featured development projects.
 
+## Contact
 For inquiries or collaboration, you may contact me through my GitHub profile.
 
 ## Author
-Lena Bahi-an - BSIT Student, Central Philippines State University Moises Padilla Campus 
- 
+Lena Bahi-an - BSIT Student, Central Philippines State University Moises Padilla Campus
