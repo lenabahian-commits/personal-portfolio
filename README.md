@@ -1,4 +1,4 @@
-# Personal Portfolio
+g# Personal Portfolio
 
 ## About
 
@@ -33,5 +33,5 @@ Currently pursuing my studies and developing my skills in programming and techno
 For inquiries or collaboration, you may contact me through my GitHub profile.
 
 ## Author
-
-**Lena Bahi-an**
+Lena Bahi-an - BSIT Student, Central Philippines State University Moises Padilla Campus 
+ 
