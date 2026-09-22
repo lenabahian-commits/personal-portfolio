@@ -28,7 +28,7 @@ Memory Match Game is a fun and interactive game designed to test and improve the
 Currently pursuing my studies and developing my skills in programming and technology.
 
 ## Live Demo & Usage
-1. Visit the live website: [Personal Portfolio](https://lenabahian-commits.github.io/personal-portfolio/)
+1. Visit the live website: [Personal Portfolio](https://lenabahian-commits.github.io/Lena-Bahi-an-/)
 2. Explore my background, skills, and featured development projects.
 
 ## Contact
