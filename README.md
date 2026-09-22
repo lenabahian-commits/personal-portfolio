@@ -1,4 +1,4 @@
-g# Personal Portfolio
+# Personal Portfolio
 
 ## About
 
