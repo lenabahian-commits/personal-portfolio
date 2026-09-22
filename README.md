@@ -21,6 +21,9 @@ A user-friendly food ordering system designed to simplify meal selection and ord
 ### Personal Portfolio
 A website that presents my background, skills, and projects.
 
+### Memory Match Game 
+Memory Match Game is a fun and interactive game designed to test and improve the player's memory skills. 
+
 ## Education
 
 Currently pursuing my studies and developing my skills in programming and technology.
